@@ -1,0 +1,6 @@
+.env
+synthetic_dataset.csv
+Phi_generation.ipynb
+ATS.ipynb
+Dataset/
+__pycache__/
