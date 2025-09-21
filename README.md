@@ -6,9 +6,13 @@ The approach relies on dual-encoder transformers finetuned with a classification
 
 # 2. Training
 To train the model, you need to install a GPU-enabled version PyTorch. Make sure it is compatibale with your CUDA version. Then, install dependencies: <br> 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 <br> After that, simply run the training script:<br>
-```python train.py```
+```
+python train.py
+```
 
 # 3. Deployment
 Coming soon!
